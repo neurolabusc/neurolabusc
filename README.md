@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am the endowed chair for brain imaging at the University of South Carolina in the Department of Psychology. I lead the [Neuroimaging Core(https://reporter.nih.gov/search/lOK9ctRXQUGmo5-rgvrlUA/project-details/10817181) and am the Co-Project Lead for Center for the [brain health project](https://reporter.nih.gov/search/HmrmqpHGS0mPbG_UWQALYQ/project-details/10817163) of the [Center for the Study of Aphasia Recovery](https://cstar.sc.edu/). I lead the development of the [NiiVue](https://reporter.nih.gov/search/dNfNq05F10WBBWtJH_hp0A/project-details/10724895) neurimaging visualization project.
+I am the endowed chair for brain imaging at the University of South Carolina in the Department of Psychology. I lead the [Neuroimaging Core](https://reporter.nih.gov/search/lOK9ctRXQUGmo5-rgvrlUA/project-details/10817181) and am the Co-Project Lead for Center for the [brain health project](https://reporter.nih.gov/search/HmrmqpHGS0mPbG_UWQALYQ/project-details/10817163) of the [Center for the Study of Aphasia Recovery](https://cstar.sc.edu/). I lead the development of the [NiiVue](https://reporter.nih.gov/search/dNfNq05F10WBBWtJH_hp0A/project-details/10724895) neurimaging visualization project.
 
 I helped create and lead development of several popular GitHub repositories:
 
